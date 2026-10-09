@@ -1,0 +1,8 @@
+{
+"name": "DevScribe : Developer Publishing & Knowledge Workspace",
+"description": "A developer blogging platform built with FastAPI, MongoDB, and React, featuring CRUD operations, authentication, and authorization.",
+"requestFramePermissions": [],
+"majorCapabilities": [
+"MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+]
+}
